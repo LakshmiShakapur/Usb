@@ -239,4 +239,4 @@ public class Write extends Activity {
 		try_adap.close();
 	}
 
-}
+}//hello android
